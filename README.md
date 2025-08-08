@@ -1,1 +1,1 @@
-# eLogApplicationHybridFramework
+# ApplicationHybridFramework
